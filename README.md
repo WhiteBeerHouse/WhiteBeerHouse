@@ -1,8 +1,6 @@
 ## Welcome to Sherry's BeerHouse 👋
 
-**About Me**
-
----
+**About Me:**
 
 - 🎓 Studying at Sun Yat-sen University
 - 💻 Familiar with C, C++, JavaScript
