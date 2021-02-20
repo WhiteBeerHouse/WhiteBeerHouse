@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to Sherry's BeerHouse 👋
+
+**About Me**
+---
+
+- 🎓 Studying at Sun Yat-sen University
+- 💻 Familiar with C, C++, JavaScript
+- 🤩 Interested in Front-end
+- ⚡ Enjoying photography, ball games and singing
+- 🌱 To be continued...
 
 <!--
 **WhiteBeerHouse/WhiteBeerHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
