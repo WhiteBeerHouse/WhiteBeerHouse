@@ -5,6 +5,7 @@
 - 🎓 Studying at Sun Yat-sen University
 - 💻 Familiar with C, C++, JavaScript
 - 🤩 Interested in Front-end
+- 🔖 Blogging at [**GRAIN**](https://WhiteBeerHouse.github.io)
 - ⚡ Enjoying photography, ball games and singing
 - 🌱 Growing...
 
