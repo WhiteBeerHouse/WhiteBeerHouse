@@ -6,7 +6,7 @@
 - 💻 Familiar with C, C++, JavaScript
 - 🤩 Interested in Front-end
 - ⚡ Enjoying photography, ball games and singing
-- 🌱 To be continued...
+- 🌱 Growing...
 
 <!--
 **WhiteBeerHouse/WhiteBeerHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
