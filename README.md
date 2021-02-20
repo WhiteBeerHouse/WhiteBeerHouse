@@ -1,6 +1,7 @@
-### Welcome to Sherry's BeerHouse 👋
+## Welcome to Sherry's BeerHouse 👋
 
 **About Me**
+
 ---
 
 - 🎓 Studying at Sun Yat-sen University
